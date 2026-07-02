@@ -36,25 +36,6 @@ B.Tech in AI & Data Science (Computer Vision specialization) from IIT Jodhpur.
 
 ---
 
-### Recent projects
-
-- **[LLM-Driven SFT & Alignment Dataset Builder](https://github.com/chakshu-dhannawat)** — toolkit that converts Markdown notes into structured SFT/RLHF datasets with LLM-guided chunking, multi-turn QA synthesis, and ORPO-style preference pairs
-- **[Retinal Disease Detection](https://github.com/chakshu-dhannawat)** — vessel segmentation + multi-disease classification pipeline; benchmarked CNNs vs Vision Transformers (ViT, Swin, EfficientFormer)
-
----
-
-### GitHub at a glance
-
-<p>
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=chakshu-dhannawat&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakshu-dhannawat&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-<p>
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=chakshu-dhannawat&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=true">
-</p>
-
----
-
 ### Connect
 
 - Email: [chakshu.dhannawat1@gmail.com](mailto:chakshu.dhannawat1@gmail.com)
