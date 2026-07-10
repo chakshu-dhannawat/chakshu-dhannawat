@@ -2,7 +2,7 @@
 
 **AI Engineer · Otsuka Corporation · Tokyo**
 
-I build production LLM systems — RAG pipelines, LLM fine-tuning, and agentic workflows at scale. Currently deploying AI infrastructure on the ELK stack and running LLM training across multi-node on-prem GPUs at Otsuka Corporation, Tokyo.
+I build production LLM systems: RAG pipelines, LLM fine-tuning, and agentic workflows at scale. Currently deploying AI infrastructure on the ELK stack and running LLM training across multi-node on-prem GPUs at Otsuka Corporation, Tokyo.
 
 B.Tech in AI & Data Science (Computer Vision specialization) from IIT Jodhpur.
 
@@ -10,10 +10,10 @@ B.Tech in AI & Data Science (Computer Vision specialization) from IIT Jodhpur.
 
 ### What I work on
 
-- **RAG & Search** — production RAG chatbots on Elasticsearch (vector + hybrid search), 1,000+ monthly users, 31% retrieval accuracy improvement
-- **LLM Fine-tuning** — SFT, instruction tuning, RLHF on 10+ LLMs using LoRA/QLoRA across multi-node GPU clusters
-- **LLM Serving** — vLLM-based inference, multi-agent orchestration (memory + planning), automated 60% of routine enterprise queries
-- **Agentic Systems** — LangChain, LlamaIndex, AutoGen, CrewAI; multimodal LLM pipelines, tool use, evaluation harnesses
+- **RAG & Search:** production RAG chatbots on Elasticsearch (vector + hybrid search), 1,000+ monthly users, 31% retrieval accuracy improvement
+- **LLM Fine-tuning:** SFT, instruction tuning, RLHF on 10+ LLMs using LoRA/QLoRA across multi-node GPU clusters
+- **LLM Serving:** vLLM-based inference, multi-agent orchestration (memory + planning), automated 60% of routine enterprise queries
+- **Agentic Systems:** LangChain, LlamaIndex, AutoGen, CrewAI; multimodal LLM pipelines, tool use, evaluation harnesses
 
 ---
 
