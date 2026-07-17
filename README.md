@@ -40,5 +40,6 @@ B.Tech in AI & Data Science (Computer Vision specialization) from IIT Jodhpur.
 
 - Email: [chakshu.dhannawat1@gmail.com](mailto:chakshu.dhannawat1@gmail.com)
 - LinkedIn: [linkedin.com/in/chakshu-dhannawat](https://linkedin.com/in/chakshu-dhannawat)
+- Hugging Face: [huggingface.co/Chakshu123](https://huggingface.co/Chakshu123)
 - Location: Tokyo, Japan
 - Open to AI/ML collaboration and OSS contributions in LLM tooling, RAG, and ML infrastructure
